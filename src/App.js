@@ -1,10 +1,9 @@
 import React from "react"
+import Index from "./components/index"
 
 function App() {
     return (
-        <div className="App">
-            <div className="text-black bg-gray-700 text-9xl ">zxc</div>
-        </div>
+        < Index />
     )
 }
 
